@@ -1,0 +1,2 @@
+/Users/tht/Downloads/flutter-clean-architecture-riverpod/android/app/.cxx/Debug/22v2t384/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/tht/Downloads/flutter-clean-architecture-riverpod/android/app/.cxx/Debug/22v2t384/arm64-v8a/CMakeFiles/rebuild_cache.dir
